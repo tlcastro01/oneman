@@ -3,6 +3,8 @@ content/
 db.sqlite3
 .DS_Store
 *.pyc
+README.txt~
+.gitignore~
 
 
 # Byte-compiled / optimized / DLL files
